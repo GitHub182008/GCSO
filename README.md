@@ -1,1 +1,1 @@
-# GCSO
+# Box Class
